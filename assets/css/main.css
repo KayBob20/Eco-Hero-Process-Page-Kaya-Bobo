@@ -3045,13 +3045,13 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #222;
-				color: var(--white);
+				background: var(--green);
+				color: var(--headers);
 				min-width: 320px;
 			}
 
 				#titleBar .title {
-					color: var(--white);
+					color: var(--headers);
 					display: block;
 					font-weight: 700;
 					height: 44px;
